@@ -3,7 +3,7 @@
 ## Description
 This is a personal project where I utilized JS/HTML/CSS to create and style an Amazon looking website.
 
-##Pictures
+## Pictures
 Pictures of the website can be found inside the folder **github_images/**
 
 ![ScreenShot](./github_images/amaz1.png)
